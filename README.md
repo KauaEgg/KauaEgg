@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**KauaEgg/KauaEgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Kau%C3%A3+Egg;I'm+a+data+analyst;Welcome!+%F0%9F%98%81)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
