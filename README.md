@@ -5,7 +5,7 @@
 
 ### Languages:
 
-![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=blue)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
