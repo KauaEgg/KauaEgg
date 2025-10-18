@@ -29,7 +29,7 @@
   
   <a href="https://instagram.com/kauaegg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kauaegg@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Kaua_Egg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaua-egg-92b413367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="right" alt="Kaua-gif" height="200" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlsbTNneHQ0dXU3ZXpvdDJoc3Z0bGRrcjBrODVmemxtZ21kcGQ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNvEh1qKHQOeLBokGJ/giphy.gif">
 </div>
 
